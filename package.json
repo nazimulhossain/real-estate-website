@@ -1,0 +1,23 @@
+{
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "Building planner and construction website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimulhossain/real-estate-website"
+  },
+  "author": "Nazimul Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazimulhossain/real-estate-website/issues"
+  },
+  "homepage": "https://github.com/nazimulhossain/real-estate-website#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  }
+}
